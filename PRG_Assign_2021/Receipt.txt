@@ -1,0 +1,20 @@
+*          Target Kiosk           *
+*      Groove Mall Shop 24        *
+***********************************
+Name        QTY     Price     Total
+PopCorn     1       5.99      5.99
+------------------------------------
+               VAT@15%        0.90
+Total                         6.89
+Tendered                      30.00
+Change                        23.11
+************************************
+
+  Date:  13 - October - 2021/10:26:18
+  Cashier: david Teller1
+************************************
+
+     Thank You For Your Support     
+         Please call Again          
+************************************
+Your change is disbursed as follows: N$100 X 0, N$10 X2, N$5 X 0, N$1 X 3, 50Cents X 0, 10Cents X 1, 5Cents X 0
